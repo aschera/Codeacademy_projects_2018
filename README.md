@@ -1,8 +1,5 @@
-# Paris
+# Codeacademy projects
 
 Codeacademy pro 
 
-project1
-
-'INTRODUCTION TO HTML
-Travel Blog'
+project1: paris -> 'INTRODUCTION TO HTML Travel Blog'

@@ -1,14 +1,4 @@
-/* ---------------------------------------------------------
-Media Query manager
------------------------------------------------------------*/
-/* breakpoints arguments can be:
-phone, tab-p, tab-l, desk-b
-*/
-/* Order: large before small. ( Desktop first design) OR 
- small before large. ( Mobile first design) */
-/*  ******************** FONT ******************** */
-/*  ******************** COLORS ******************** */
-/*  ******************** GRID ******************** */
+
 @keyframes moveInLeft {
   0% {
     opacity: 0;

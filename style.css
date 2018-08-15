@@ -1350,7 +1350,7 @@ header {
     color: black; }
 
 .section-tours {
-  height: 900vh;
+  min-height: 500vh;
   background-color: #70CEC6;
   padding: 2rem 0;
   margin-top: 5vh;
